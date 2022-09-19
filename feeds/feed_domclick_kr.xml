@@ -57,21 +57,6 @@
         <bathroom>совмещенный</bathroom>
       </flat>
       <flat>
-        <flat_id>5</flat_id>
-        <apartment>5</apartment>
-        <floor>4</floor>
-        <room>3</room>
-        <plan>https://Krasnodonets.github.io/img/3k-80_05.jpg</plan>
-		<balcony>лоджия</balcony>
-		<renovation>Нет</renovation>
-		<price>9170000</price>
-        <area>80,05</area>
-        <kitchen_area>20</kitchen_area>
-        <living_area>55</living_area>
-        <window_view>во двор и на улицу</window_view>
-        <bathroom>раздельный</bathroom>
-      </flat>
-      <flat>
         <flat_id>7</flat_id>
         <apartment>7</apartment>
         <floor>4</floor>
