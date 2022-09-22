@@ -8,8 +8,8 @@
   <address>г Нижний Новгород, улица Краснодонцев, 25</address>
   <images>
       <image>https://Krasnodonets.github.io/img/c01_sm.jpg</image>
-      <image>https://Krasnodonets.github.io/img/c02_sm.jpg</image>
-      <image>https://Krasnodonets.github.io/img/c03_sm.jpg</image>
+      <image>https://Krasnodonets.github.io/photo_ext/_MG_2107.jpg</image>
+      <image>https://Krasnodonets.github.io/photo_ext/_MG_2123.jpg</image>
   </images>
   <description_main>
     <text>Квартиры в Автозаводском районе на пересечении ул. Краснодонцев и Советской Армии. Полностью развитый район: рядом магазины, школы, детсады, торговые и развлекательные комплексы, оcтановки общественного транспорта.</text>
@@ -32,6 +32,9 @@
         <floor>3</floor>
         <room>3</room>
         <plan>https://Krasnodonets.github.io/img/3k-80_05.jpg</plan>
+	<image>https://Krasnodonets.github.io/img/3K_80/05.jpg</image>
+	<image>https://Krasnodonets.github.io/img/3K_80/06.jpg</image>
+	<image>https://Krasnodonets.github.io/img/3K_80/07.jpg</image>      
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
 		<price>8970000</price>
@@ -47,6 +50,9 @@
         <floor>3</floor>
         <room>2</room>
         <plan>https://Krasnodonets.github.io/img/2k-67_48.jpg</plan>
+	<image>https://Krasnodonets.github.io/img/2K_67/05.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_67/06.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_67/07.jpg</image>	      
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
 		<price>7770000</price>
@@ -62,6 +68,9 @@
         <floor>4</floor>
         <room>2</room>
         <plan>https://Krasnodonets.github.io/img/2k-56_21.jpg</plan>
+	<image>https://Krasnodonets.github.io/img/2K_56/05.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_56/06.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_56/07.jpg</image>	  	      
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
 		<price>7070000</price>
@@ -77,6 +86,9 @@
         <floor>4</floor>
         <room>2</room>
         <plan>https://Krasnodonets.github.io/img/2k-67_48.jpg</plan>
+	<image>https://Krasnodonets.github.io/img/2K_67/05.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_67/06.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_67/07.jpg</image>	      	      
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
 		<price>7970000</price>
@@ -92,6 +104,9 @@
         <floor>5</floor>
         <room>3</room>
         <plan>https://Krasnodonets.github.io/img/3k-80_05.jpg</plan>
+	<image>https://Krasnodonets.github.io/img/3K_80/05.jpg</image>
+	<image>https://Krasnodonets.github.io/img/3K_80/06.jpg</image>
+	<image>https://Krasnodonets.github.io/img/3K_80/07.jpg</image>	      
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
 		<price>9170000</price>
@@ -107,6 +122,9 @@
         <floor>5</floor>
         <room>2</room>
         <plan>https://Krasnodonets.github.io/img/2k-56_21.jpg</plan>
+	<image>https://Krasnodonets.github.io/img/2K_56/05.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_56/06.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_56/07.jpg</image>	  	      	      
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
 		<price>7070000</price>
@@ -122,6 +140,9 @@
         <floor>5</floor>
         <room>2</room>
         <plan>https://Krasnodonets.github.io/img/2k-67_48.jpg</plan>
+	<image>https://Krasnodonets.github.io/img/2K_67/05.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_67/06.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_67/07.jpg</image>	      	      
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
 		<price>7970000</price>
@@ -137,6 +158,9 @@
         <floor>6</floor>
         <room>3</room>
         <plan>https://Krasnodonets.github.io/img/3k-80_05.jpg</plan>
+	<image>https://Krasnodonets.github.io/img/3K_80/05.jpg</image>
+	<image>https://Krasnodonets.github.io/img/3K_80/06.jpg</image>
+	<image>https://Krasnodonets.github.io/img/3K_80/07.jpg</image>	      
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
 		<price>9170000</price>
@@ -152,6 +176,8 @@
         <floor>6</floor>
         <room>1</room>
         <plan>https://Krasnodonets.github.io/img/1k-38_45.jpg</plan>
+	<image>https://Krasnodonets.github.io/img/1K_38/05.jpg</image>
+	<image>https://Krasnodonets.github.io/img/1K_38/06.jpg</image>
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
 		<price>5470000</price>
@@ -167,6 +193,9 @@
         <floor>6</floor>
         <room>2</room>
         <plan>https://Krasnodonets.github.io/img/2k-56_21.jpg</plan>
+	<image>https://Krasnodonets.github.io/img/2K_56/05.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_56/06.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_56/07.jpg</image>
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
 		<price>7070000</price>
@@ -182,6 +211,9 @@
         <floor>6</floor>
         <room>2</room>
         <plan>https://Krasnodonets.github.io/img/2k-67_48.jpg</plan>
+	<image>https://Krasnodonets.github.io/img/2K_67/05.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_67/06.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_67/07.jpg</image>	      	      
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
 		<price>7970000</price>
@@ -197,6 +229,9 @@
         <floor>7</floor>
         <room>3</room>
         <plan>https://Krasnodonets.github.io/img/3k-80_05.jpg</plan>
+	<image>https://Krasnodonets.github.io/img/3K_80/05.jpg</image>
+	<image>https://Krasnodonets.github.io/img/3K_80/06.jpg</image>
+	<image>https://Krasnodonets.github.io/img/3K_80/07.jpg</image>	     
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
 		<price>9370000</price>
@@ -212,6 +247,9 @@
         <floor>7</floor>
         <room>2</room>
         <plan>https://Krasnodonets.github.io/img/2k-56_21.jpg</plan>
+	<image>https://Krasnodonets.github.io/img/2K_56/05.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_56/06.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_56/07.jpg</image>
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
 		<price>7270000</price>
@@ -227,6 +265,8 @@
         <floor>9</floor>
         <room>1</room>
         <plan>https://Krasnodonets.github.io/img/1k-38_45.jpg</plan>
+	<image>https://Krasnodonets.github.io/img/1K_38/05.jpg</image>
+	<image>https://Krasnodonets.github.io/img/1K_38/06.jpg</image>	      
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
 		<price>5670000</price>
@@ -242,6 +282,9 @@
         <floor>9</floor>
         <room>2</room>
         <plan>https://Krasnodonets.github.io/img/2k-56_21.jpg</plan>
+	<image>https://Krasnodonets.github.io/img/2K_56/05.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_56/06.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_56/07.jpg</image>
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
 		<price>7270000</price>
@@ -257,6 +300,9 @@
         <floor>9</floor>
         <room>2</room>
         <plan>https://Krasnodonets.github.io/img/2k-67_48.jpg</plan>
+	<image>https://Krasnodonets.github.io/img/2K_67/05.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_67/06.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_67/07.jpg</image>	      	      
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
 		<price>8170000</price>
@@ -272,6 +318,9 @@
         <floor>10</floor>
         <room>3</room>
         <plan>https://Krasnodonets.github.io/img/3k-80_05.jpg</plan>
+	<image>https://Krasnodonets.github.io/img/3K_80/05.jpg</image>
+	<image>https://Krasnodonets.github.io/img/3K_80/06.jpg</image>
+	<image>https://Krasnodonets.github.io/img/3K_80/07.jpg</image>	      
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
 		<price>9570000</price>
@@ -287,6 +336,8 @@
         <floor>10</floor>
         <room>1</room>
         <plan>https://Krasnodonets.github.io/img/1k-38_45.jpg</plan>
+	<image>https://Krasnodonets.github.io/img/1K_38/05.jpg</image>
+	<image>https://Krasnodonets.github.io/img/1K_38/06.jpg</image>	      
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
 		<price>5670000</price>
@@ -302,6 +353,9 @@
         <floor>10</floor>
         <room>2</room>
         <plan>https://Krasnodonets.github.io/img/2k-56_21.jpg</plan>
+	<image>https://Krasnodonets.github.io/img/2K_56/05.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_56/06.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_56/07.jpg</image>
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
 		<price>7470000</price>
@@ -317,6 +371,9 @@
         <floor>10</floor>
         <room>2</room>
         <plan>https://Krasnodonets.github.io/img/2k-67_48.jpg</plan>
+	<image>https://Krasnodonets.github.io/img/2K_67/05.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_67/06.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_67/07.jpg</image>	      	      
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
 		<price>8370000</price>
@@ -332,6 +389,9 @@
         <floor>11</floor>
         <room>3</room>
         <plan>https://Krasnodonets.github.io/img/3k-80_05.jpg</plan>
+	<image>https://Krasnodonets.github.io/img/3K_80/05.jpg</image>
+	<image>https://Krasnodonets.github.io/img/3K_80/06.jpg</image>
+	<image>https://Krasnodonets.github.io/img/3K_80/07.jpg</image>	      
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
 		<price>9570000</price>
@@ -347,6 +407,8 @@
         <floor>11</floor>
         <room>1</room>
         <plan>https://Krasnodonets.github.io/img/1k-38_45.jpg</plan>
+	<image>https://Krasnodonets.github.io/img/1K_38/05.jpg</image>
+	<image>https://Krasnodonets.github.io/img/1K_38/06.jpg</image>	      
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
 		<price>5670000</price>
@@ -362,6 +424,9 @@
         <floor>11</floor>
         <room>2</room>
         <plan>https://Krasnodonets.github.io/img/2k-56_21.jpg</plan>
+	<image>https://Krasnodonets.github.io/img/2K_56/05.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_56/06.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_56/07.jpg</image>
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
 		<price>7470000</price>
