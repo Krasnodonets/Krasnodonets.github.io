@@ -206,25 +206,6 @@
         <bathroom>совмещенный</bathroom>
       </flat>
       <flat>
-        <flat_id>16</flat_id>
-        <apartment>16</apartment>
-        <floor>6</floor>
-        <room>2</room>
-        <plan>https://Krasnodonets.github.io/img/2k-67_48.jpg</plan>
-	<image>https://Krasnodonets.github.io/img/2K_67/05.jpg</image>
-	<image>https://Krasnodonets.github.io/img/2K_67/06.jpg</image>
-	<image>https://Krasnodonets.github.io/img/2K_67/07.jpg</image>	      	      
-		<balcony>лоджия</balcony>
-		<renovation>Нет</renovation>
-		<price>7970000</price>
-        <area>67,48</area>
-        <kitchen_area>10</kitchen_area>
-        <living_area>53</living_area>
-        <window_view>во двор и на улицу</window_view>
-        <bathroom>совмещенный</bathroom>
-     </flat>
-     
-      <flat>
         <flat_id>19</flat_id>
         <apartment>19</apartment>
         <floor>7</floor>
