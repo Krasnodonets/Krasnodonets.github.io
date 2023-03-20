@@ -82,43 +82,6 @@
         <bathroom>совмещенный</bathroom>
       </flat>
      
-     
-      <flat>
-        <flat_id>12</flat_id>
-        <apartment>12</apartment>
-        <floor>5</floor>
-        <room>2</room>
-        <plan>https://Krasnodonets.github.io/img/2k-67_48.jpg</plan>
-	<image>https://Krasnodonets.github.io/img/2K_67/05.jpg</image>
-	<image>https://Krasnodonets.github.io/img/2K_67/06.jpg</image>
-	<image>https://Krasnodonets.github.io/img/2K_67/07.jpg</image>	      	      
-		<balcony>лоджия</balcony>
-		<renovation>Нет</renovation>
-		<price>7970000</price>
-        <area>67,48</area>
-        <kitchen_area>10</kitchen_area>
-        <living_area>53</living_area>
-        <window_view>во двор и на улицу</window_view>
-        <bathroom>совмещенный</bathroom>
-      </flat>
-    
-      <flat>
-        <flat_id>14</flat_id>
-        <apartment>14</apartment>
-        <floor>6</floor>
-        <room>1</room>
-        <plan>https://Krasnodonets.github.io/img/1k-38_45.jpg</plan>
-	<image>https://Krasnodonets.github.io/img/1K_38/05.jpg</image>
-	<image>https://Krasnodonets.github.io/img/1K_38/06.jpg</image>
-		<balcony>лоджия</balcony>
-		<renovation>Нет</renovation>
-		<price>5470000</price>
-        <area>38,45</area>
-        <kitchen_area>10</kitchen_area>
-        <living_area>20</living_area>
-        <window_view>на улицу</window_view>
-        <bathroom>совмещенный</bathroom>
-      </flat>
       <flat>
         <flat_id>15</flat_id>
         <apartment>15</apartment>
@@ -137,23 +100,7 @@
         <window_view>на улицу</window_view>
         <bathroom>совмещенный</bathroom>
       </flat>
-	<flat>
-        <flat_id>18</flat_id>
-        <apartment>18</apartment>
-        <floor>7</floor>
-        <room>1</room>
-        <plan>https://Krasnodonets.github.io/img/1k-38_45.jpg</plan>
-	<image>https://Krasnodonets.github.io/img/1K_38/05.jpg</image>
-	<image>https://Krasnodonets.github.io/img/1K_38/06.jpg</image>
-		<balcony>лоджия</balcony>
-		<renovation>Нет</renovation>
-		<price>5570000</price>
-        <area>38,45</area>
-        <kitchen_area>10</kitchen_area>
-        <living_area>20</living_area>
-        <window_view>на улицу</window_view>
-        <bathroom>совмещенный</bathroom>
-      </flat>	    
+	  
       <flat>
         <flat_id>19</flat_id>
         <apartment>19</apartment>
@@ -210,6 +157,7 @@
         <window_view>во двор и на улицу</window_view>
         <bathroom>раздельный</bathroom>
       </flat>
+	    
       <flat>
         <flat_id>30</flat_id>
         <apartment>30</apartment>
@@ -227,6 +175,45 @@
         <window_view>на улицу</window_view>
         <bathroom>совмещенный</bathroom>
 	</flat>
+	  
+	 <flat>
+        <flat_id>31</flat_id>
+        <apartment>31</apartment>
+        <floor>10</floor>
+        <room>2</room>
+        <plan>https://Krasnodonets.github.io/img/2k-56_21.jpg</plan>
+	<image>https://Krasnodonets.github.io/img/2K_56/05.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_56/06.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_56/07.jpg</image>
+		<balcony>лоджия</balcony>
+		<renovation>Нет</renovation>
+		<price>7470000</price>
+        <area>56,21</area>
+        <kitchen_area>11</kitchen_area>
+        <living_area>42</living_area>
+        <window_view>на улицу</window_view>
+        <bathroom>совмещенный</bathroom>
+      </flat>    
+	    
+	<flat>
+        <flat_id>32</flat_id>
+        <apartment>32</apartment>
+        <floor>10</floor>
+        <room>2</room>
+        <plan>https://Krasnodonets.github.io/img/2k-67_48.jpg</plan>
+	<image>https://Krasnodonets.github.io/img/2K_67/05.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_67/06.jpg</image>
+	<image>https://Krasnodonets.github.io/img/2K_67/07.jpg</image>	      
+		<balcony>лоджия</balcony>
+		<renovation>Нет</renovation>
+		<price>8370000</price>
+        <area>67,48</area>
+        <kitchen_area>10</kitchen_area>
+        <living_area>53</living_area>
+        <window_view>во двор и на улицу</window_view>
+        <bathroom>совмещенный</bathroom>
+      </flat>
+	    
       <flat>
         <flat_id>34</flat_id>
         <apartment>34</apartment>
