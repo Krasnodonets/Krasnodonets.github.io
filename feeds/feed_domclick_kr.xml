@@ -37,7 +37,7 @@
 	<image>https://Krasnodonets.github.io/img/3K_80/07.jpg</image>      
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
-		<price>8970000</price>
+		<price>8770000</price>
         <area>80,05</area>
         <kitchen_area>20</kitchen_area>
         <living_area>55</living_area>
@@ -55,7 +55,7 @@
 	<image>https://Krasnodonets.github.io/img/2K_67/07.jpg</image>	      
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
-		<price>7770000</price>
+		<price>7670000</price>
         <area>67,48</area>
         <kitchen_area>10</kitchen_area>
         <living_area>53</living_area>
@@ -74,7 +74,7 @@
 	<image>https://Krasnodonets.github.io/img/2K_67/07.jpg</image>	      	      
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
-		<price>7970000</price>
+		<price>7870000</price>
         <area>67,48</area>
         <kitchen_area>10</kitchen_area>
         <living_area>53</living_area>
@@ -93,7 +93,7 @@
 	<image>https://Krasnodonets.github.io/img/2K_56/07.jpg</image>
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
-		<price>7070000</price>
+		<price>6970000</price>
         <area>56,21</area>
         <kitchen_area>11</kitchen_area>
         <living_area>42</living_area>
@@ -112,7 +112,7 @@
 	<image>https://Krasnodonets.github.io/img/2K_56/07.jpg</image>
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
-		<price>7270000</price>
+		<price>7170000</price>
         <area>56,21</area>
         <kitchen_area>11</kitchen_area>
         <living_area>42</living_area>
@@ -131,7 +131,7 @@
 	<image>https://Krasnodonets.github.io/img/2K_56/07.jpg</image>
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
-		<price>7270000</price>
+		<price>7470000</price>
         <area>56,21</area>
         <kitchen_area>11</kitchen_area>
         <living_area>42</living_area>
@@ -150,7 +150,7 @@
 	<image>https://Krasnodonets.github.io/img/3K_80/07.jpg</image>	      
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
-		<price>9570000</price>
+		<price>9870000</price>
         <area>80,05</area>
         <kitchen_area>20</kitchen_area>
         <living_area>55</living_area>
@@ -187,7 +187,7 @@
 	<image>https://Krasnodonets.github.io/img/2K_56/07.jpg</image>
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
-		<price>7470000</price>
+		<price>7670000</price>
         <area>56,21</area>
         <kitchen_area>11</kitchen_area>
         <living_area>42</living_area>
@@ -206,7 +206,7 @@
 	<image>https://Krasnodonets.github.io/img/2K_67/07.jpg</image>	      
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
-		<price>8370000</price>
+		<price>8670000</price>
         <area>67,48</area>
         <kitchen_area>10</kitchen_area>
         <living_area>53</living_area>
@@ -224,7 +224,7 @@
 	<image>https://Krasnodonets.github.io/img/1K_38/06.jpg</image>	      
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
-		<price>5670000</price>
+		<price>5470000</price>
         <area>38,45</area>
         <kitchen_area>10</kitchen_area>
         <living_area>20</living_area>
