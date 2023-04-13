@@ -44,25 +44,7 @@
         <window_view>во двор и на улицу</window_view>
         <bathroom>раздельный</bathroom>
       </flat>
-      <flat>
-        <flat_id>4</flat_id>
-        <apartment>4</apartment>
-        <floor>3</floor>
-        <room>2</room>
-        <plan>https://Krasnodonets.github.io/img/2k-67_48.jpg</plan>
-	<image>https://Krasnodonets.github.io/img/2K_67/05.jpg</image>
-	<image>https://Krasnodonets.github.io/img/2K_67/06.jpg</image>
-	<image>https://Krasnodonets.github.io/img/2K_67/07.jpg</image>	      
-		<balcony>лоджия</balcony>
-		<renovation>Нет</renovation>
-		<price>7670000</price>
-        <area>67,48</area>
-        <kitchen_area>10</kitchen_area>
-        <living_area>53</living_area>
-        <window_view>во двор и на улицу</window_view>
-        <bathroom>совмещенный</bathroom>
-      </flat>
-     
+	    
       <flat>
         <flat_id>8</flat_id>
         <apartment>8</apartment>
@@ -175,25 +157,6 @@
         <window_view>на улицу</window_view>
         <bathroom>совмещенный</bathroom>
 	</flat>
-	  
-	 <flat>
-        <flat_id>31</flat_id>
-        <apartment>31</apartment>
-        <floor>10</floor>
-        <room>2</room>
-        <plan>https://Krasnodonets.github.io/img/2k-56_21.jpg</plan>
-	<image>https://Krasnodonets.github.io/img/2K_56/05.jpg</image>
-	<image>https://Krasnodonets.github.io/img/2K_56/06.jpg</image>
-	<image>https://Krasnodonets.github.io/img/2K_56/07.jpg</image>
-		<balcony>лоджия</balcony>
-		<renovation>Нет</renovation>
-		<price>7670000</price>
-        <area>56,21</area>
-        <kitchen_area>11</kitchen_area>
-        <living_area>42</living_area>
-        <window_view>на улицу</window_view>
-        <bathroom>совмещенный</bathroom>
-      </flat>    
 	    
 	<flat>
         <flat_id>32</flat_id>
