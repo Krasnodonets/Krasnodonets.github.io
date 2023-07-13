@@ -30,6 +30,7 @@
       <flat>
         <flat_id>2</flat_id>
         <apartment>2</apartment>
+	<cadastral-number>52:18:0040169:7577</cadastral-number>
         <floor>3</floor>
         <room>2</room>
         <plan>https://Krasnodonets.github.io/img/2k-56_21.jpg</plan>
@@ -50,6 +51,7 @@
       <flat>
         <flat_id>24</flat_id>
         <apartment>24</apartment>
+	<cadastral-number>52:18:0040169:7572</cadastral-number>
         <floor>8</floor>
         <room>3</room>
         <plan>https://Krasnodonets.github.io/img/3k-80_05.jpg</plan>
@@ -68,6 +70,7 @@
 	
       <flat>
         <flat_id>22</flat_id>
+	<cadastral-number>52:18:0040169:7570</cadastral-number>
         <apartment>22</apartment>
         <floor>8</floor>
         <room>2</room>
@@ -87,6 +90,7 @@
 	    
 	<flat>
         <flat_id>21</flat_id>
+	<cadastral-number>52:18:0040169:7569</cadastral-number>
         <apartment>21</apartment>
         <floor>8</floor>
         <room>2</room>
@@ -107,6 +111,7 @@
       <flat>
         <flat_id>26</flat_id>
         <apartment>26</apartment>
+	<cadastral-number>52:18:0040169:7574</cadastral-number>
         <floor>9</floor>
         <room>2</room>
         <plan>https://Krasnodonets.github.io/img/2k-56_21.jpg</plan>
@@ -126,6 +131,7 @@
       <flat>
         <flat_id>32</flat_id>
         <apartment>32</apartment>
+	<cadastral-number>52:18:0040169:7581</cadastral-number>
         <floor>10</floor>
         <room>3</room>
         <plan>https://Krasnodonets.github.io/img/3k-80_05.jpg</plan>
@@ -146,6 +152,7 @@
       <flat>
         <flat_id>35</flat_id>
         <apartment>35</apartment>
+	<cadastral-number>52:18:0040169:7584</cadastral-number>
         <floor>11</floor>
         <room>1</room>
         <plan>https://Krasnodonets.github.io/img/1k-38_45.jpg</plan>
