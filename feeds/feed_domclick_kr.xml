@@ -38,31 +38,21 @@
     <building_type>монолитный</building_type>
     <flats>
   
-      <flat>
-        <flat_id>2</flat_id>
-        <apartment>2</apartment>
-	<cadastral-number>52:18:0040169:7577</cadastral-number>
-        <floor>3</floor>
-        <room>2</room>
-        <plan>https://Krasnodonets.github.io/img/2k-56_21.jpg</plan>
-	<image>https://Krasnodonets.github.io/img/2K_56/05.jpg</image>
-	<image>https://Krasnodonets.github.io/img/2K_56/06.jpg</image>
-	<image>https://Krasnodonets.github.io/img/2K_56/07.jpg</image>
-		<balcony>лоджия</balcony>
-		<renovation>Нет</renovation>
-		<price>6570000</price>
-        <area>56,21</area>
-        <kitchen_area>11</kitchen_area>
-        <living_area>42</living_area>
-        <window_view>на улицу</window_view>
-        <bathroom>совмещенный</bathroom>
-      </flat>
-	    
 	    
       <flat>
         <flat_id>24</flat_id>
         <apartment>24</apartment>
 	<cadastral-number>52:18:0040169:7572</cadastral-number>
+		<CadastralNumber>52:18:0040169:7572</CadastralNumber>
+	      	<location>
+  			<region>Нижегородская область</region>
+			<country>Россия</country>
+   			<locality-name>Нижний Новгород</locality-name>
+   			<address>улица Краснодонцев, 25</address>
+		</location>
+		<property-type>жилая</property-type>
+		<category>квартира</category>
+		<deal-status>первичная продажа</deal-status>
         <floor>8</floor>
         <room>3</room>
         <plan>https://Krasnodonets.github.io/img/3k-80_05.jpg</plan>
@@ -72,7 +62,7 @@
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
 		<price>9570000</price>
-        <area>80,05</area>
+        <area>80</area>
         <kitchen_area>20</kitchen_area>
         <living_area>55</living_area>
         <window_view>во двор и на улицу</window_view>
@@ -109,30 +99,22 @@
         <bathroom>совмещенный</bathroom>
       </flat>
 	    
-	<flat>
-        <flat_id>21</flat_id>
-	<cadastral-number>52:18:0040169:7569</cadastral-number>
-        <apartment>21</apartment>
-        <floor>8</floor>
-        <room>2</room>
-        <plan>https://Krasnodonets.github.io/img/2k-67_48.jpg</plan>
-	<image>https://Krasnodonets.github.io/img/2K_67/05.jpg</image>
-	<image>https://Krasnodonets.github.io/img/2K_67/06.jpg</image>
-	<image>https://Krasnodonets.github.io/img/2K_67/07.jpg</image>	      
-		<balcony>лоджия</balcony>
-		<renovation>Нет</renovation>
-		<price>8470000</price>
-        <area>67,48</area>
-        <kitchen_area>10</kitchen_area>
-        <living_area>53</living_area>
-        <window_view>во двор и на улицу</window_view>
-        <bathroom>совмещенный</bathroom>
-      </flat>
+
     
       <flat>
         <flat_id>26</flat_id>
         <apartment>26</apartment>
 	<cadastral-number>52:18:0040169:7574</cadastral-number>
+		<CadastralNumber>52:18:0040169:7574</CadastralNumber>
+	      	<location>
+  			<region>Нижегородская область</region>
+			<country>Россия</country>
+   			<locality-name>Нижний Новгород</locality-name>
+   			<address>улица Краснодонцев, 25</address>
+		</location>
+		<property-type>жилая</property-type>
+		<category>квартира</category>
+		<deal-status>первичная продажа</deal-status>
         <floor>9</floor>
         <room>2</room>
         <plan>https://Krasnodonets.github.io/img/2k-56_21.jpg</plan>
@@ -153,6 +135,16 @@
         <flat_id>32</flat_id>
         <apartment>32</apartment>
 	<cadastral-number>52:18:0040169:7581</cadastral-number>
+		<CadastralNumber>52:18:0040169:7581</CadastralNumber>
+	      	<location>
+  			<region>Нижегородская область</region>
+			<country>Россия</country>
+   			<locality-name>Нижний Новгород</locality-name>
+   			<address>улица Краснодонцев, 25</address>
+		</location>
+		<property-type>жилая</property-type>
+		<category>квартира</category>
+		<deal-status>первичная продажа</deal-status>
         <floor>10</floor>
         <room>3</room>
         <plan>https://Krasnodonets.github.io/img/3k-80_05.jpg</plan>
@@ -162,7 +154,7 @@
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
 		<price>9570000</price>
-        <area>80,05</area>
+        <area>80</area>
         <kitchen_area>20</kitchen_area>
         <living_area>55</living_area>
         <window_view>во двор и на улицу</window_view>
@@ -174,6 +166,16 @@
         <flat_id>35</flat_id>
         <apartment>35</apartment>
 	<cadastral-number>52:18:0040169:7584</cadastral-number>
+		<CadastralNumber>52:18:0040169:7584</CadastralNumber>
+	      	<location>
+  			<region>Нижегородская область</region>
+			<country>Россия</country>
+   			<locality-name>Нижний Новгород</locality-name>
+   			<address>улица Краснодонцев, 25</address>
+		</location>
+		<property-type>жилая</property-type>
+		<category>квартира</category>
+		<deal-status>первичная продажа</deal-status>
         <floor>11</floor>
         <room>1</room>
         <plan>https://Krasnodonets.github.io/img/1k-38_45.jpg</plan>
@@ -182,7 +184,7 @@
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
 		<price>5670000</price>
-        <area>38,45</area>
+        <area>37</area>
         <kitchen_area>10</kitchen_area>
         <living_area>20</living_area>
         <window_view>на улицу</window_view>
