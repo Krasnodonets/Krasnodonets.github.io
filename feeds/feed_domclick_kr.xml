@@ -5,7 +5,12 @@
   <name>Дом на Краснодонцев</name>
   <latitude>56.257548</latitude>
   <longitude>43.852958</longitude>
-  <address>г Нижний Новгород, улица Краснодонцев, 25</address>
+  <location>
+  	<country>Россия</country>		
+	<region>Нижегородская область</region>
+	<locality-name>Нижний Новгород</locality-name>
+   	<address>улица Краснодонцев, 25</address>
+</location>
   <images>
       <image>https://Krasnodonets.github.io/img/c01_sm.jpg</image>
       <image>https://Krasnodonets.github.io/img/photo_ext/_MG_2107.jpg</image>
