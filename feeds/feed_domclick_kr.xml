@@ -71,6 +71,7 @@
       <flat>
         <flat_id>22</flat_id>
 	<cadastral-number>52:18:0040169:7570</cadastral-number>
+	<CadastralNumber>52:18:0040169:7570</CadastralNumber>
         <apartment>22</apartment>
         <floor>8</floor>
         <room>2</room>
@@ -81,7 +82,7 @@
 		<balcony>лоджия</balcony>
 		<renovation>Нет</renovation>
 		<price>7470000</price>
-        <area>56,21</area>
+        <area>54,9</area>
         <kitchen_area>11</kitchen_area>
         <living_area>42</living_area>
         <window_view>на улицу</window_view>
