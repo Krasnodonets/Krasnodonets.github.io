@@ -10,7 +10,7 @@
 	<region>Нижегородская область</region>
 	<locality-name>Нижний Новгород</locality-name>
    	<address>улица Краснодонцев, 25</address>
-</location>
+  </location>
   <images>
       <image>https://Krasnodonets.github.io/img/c01_sm.jpg</image>
       <image>https://Krasnodonets.github.io/img/photo_ext/_MG_2107.jpg</image>
@@ -24,9 +24,15 @@
     <building>
     <id>156384</id>
     <fz_214>1</fz_214>
+	<location>
+  	<country>Россия</country>		
+	<region>Нижегородская область</region>
+	<locality-name>Нижний Новгород</locality-name>
+   	<address>улица Краснодонцев, 25</address>
+  	</location>
     <name>Дом на Краснодонцев</name>
     <floors>11</floors>
-    <building_state>unfinished</building_state>
+    <building_state>finished</building_state>
     <built_year>2023</built_year>
     <ready_quarter>2</ready_quarter>
     <building_type>монолитный</building_type>
