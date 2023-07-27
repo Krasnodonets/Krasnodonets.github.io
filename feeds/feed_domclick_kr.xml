@@ -82,13 +82,15 @@
       <flat>
         <flat_id>22</flat_id>
 	<cadastral-number>52:18:0040169:7570</cadastral-number>
-	<CadastralNumber>52:18:0040169:7570</CadastralNumber>
+		<CadastralNumber>52:18:0040169:7570</CadastralNumber>
 	      	<location>
   			<region>Нижегородская область</region>
 			<country>Россия</country>
    			<locality-name>Нижний Новгород</locality-name>
    			<address>улица Краснодонцев, 25</address>
 		</location>
+		<property-type>жилая</property-type>
+		<category>квартира</category>
         <apartment>22</apartment>
         <floor>8</floor>
         <room>2</room>
