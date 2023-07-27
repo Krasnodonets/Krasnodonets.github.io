@@ -73,7 +73,8 @@
 	<cadastral-number>52:18:0040169:7570</cadastral-number>
 	<CadastralNumber>52:18:0040169:7570</CadastralNumber>
 	      	<location>
-  			<country>Россия</country>
+  			<region>Нижегородская область</region>
+			<country>Россия</country>
    			<locality-name>Нижний Новгород</locality-name>
    			<address>улица Краснодонцев, 25</address>
 		</location>
